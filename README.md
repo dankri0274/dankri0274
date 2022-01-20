@@ -23,3 +23,5 @@ Located: Narvik, Norway
 
 - Programming
 - Driving (A lot)
+
+![Tux, the Linux mascot](/assets/images/tux.img)
