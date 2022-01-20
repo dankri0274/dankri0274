@@ -1,8 +1,7 @@
 # Daniel Kristensen
 
-19 year old IT-student
-
-Located in Narvik, Norway ![Norway](/https://github.com/dannyboy9934/dannyboy9934/blob/main/Flag_of_Norway.svg =x50)
+- 19 year old IT-student
+- Located in Narvik, Norway
 
 ## Programming languages
 
@@ -13,8 +12,8 @@ Located in Narvik, Norway ![Norway](/https://github.com/dannyboy9934/dannyboy993
 
 ### High school
 
-1. Electricity and Electronics
-2. ICT (Internet and Communications Technology)<br>
+1. **Electricity and Electronics**
+2. **ICT (Internet and Communications Technology)**
 
 ### Internship
 **2020 - 2022**: *Narvik Kommune*
