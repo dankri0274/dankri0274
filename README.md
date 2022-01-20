@@ -2,7 +2,7 @@
 
 19 year old IT-student
 
-Located in Narvik, Norway ![Norway](/dannyboy9934/Flag_of_Norway.svg =x50)
+Located in Narvik, Norway ![Norway](/https://github.com/dannyboy9934/dannyboy9934/blob/main/Flag_of_Norway.svg =x50)
 
 ## Programming languages
 
