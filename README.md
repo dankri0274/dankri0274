@@ -2,7 +2,7 @@
 
 19 year old IT-student
 
-Located in Narvik, Norway [](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/1280px-Flag_of_Norway.svg.png =50x100px)
+Located in Narvik, Norway [Norway](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/1280px-Flag_of_Norway.svg.png =50x100px)
 
 ## Programming languages
 
