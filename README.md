@@ -9,9 +9,7 @@
 
 ### The beginning
 
-The first programming language I learned was C++ at my second year of high school,  but I switched over to Python for an assignment we had where we could use any programming language, and we could make whatever we wanted.
-
-I decided that I wantet to make a login-system, it was pretty bad, but it was a start, it was what led me to make [PythonOS](https://github.com/dannyboy9934/PythonOS)
+The first programming language I learned was C++ at my second year of high school.
 
 My first program in C++
 
@@ -26,6 +24,10 @@ int main() {
     return 0;
 }
 ```
+
+I later switched over to Python for an assignment we had where we could use any programming language, and we could make whatever we wanted.
+
+I decided that I wantet to make a login-system, it was pretty bad, but it was a start, it was what led me to make [PythonOS](https://github.com/dannyboy9934/PythonOS)
 
 - **Python**
 - **C** (Some experience).
