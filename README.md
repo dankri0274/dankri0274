@@ -43,7 +43,7 @@ I decided that I wantet to make a login-system, it was pretty bad, but it was a 
 
 ### Internship
 
-**2020 - 2022**: *Narvik Kommune*
+**2020 - 2022**: *Narvik Kommune*, IT-Department
 
 ## Hobbies
 
