@@ -18,10 +18,10 @@ My first program in C++
 using namespace std;
 
 int main() {
-    cout << "Hello world" << endl;
-    cout << "This is my C++ program" << endl;
-    cout << "Press any key to continue..." << endl;
-    return 0;
+	cout << "Hello world" << endl;
+	cout << "This is my C++ program" << endl;
+	cout << "Press any key to continue..." << endl;
+	return 0;
 }
 ```
 
