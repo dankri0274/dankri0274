@@ -3,8 +3,6 @@
 - 20 year old IT-student
 - Located in Narvik, Norway
 
-***
-
 ## Programming
 
 ### The beginning
