@@ -1,6 +1,6 @@
 # Daniel Kristensen
 
-- 21 year old IT-student
+- 23 year old IT-enthusiast
 - 📍Narvik, Norway
 
 ## Programming
